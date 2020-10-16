@@ -42,7 +42,7 @@ let resumeData = {
         "CompanyName":"Maxis",
         "specialization":"Software Developer",
         "MonthOfJoining":"Jan",
-        "YearOfJoining":"2019",
+        "YearOfJoining":"2020",
         "MonthOfLeaving":"Jul",
         "YearOfLeaving":"2020",
       },
